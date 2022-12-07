@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: #722F37!important;
+}
+.jumbotron-jumbotron-fluid{
+    
+    background-size: cover;
+}
+.jumbotron-jumbotron-fluid.container {
+    position:relative;
+    top:50px;
+  }
